@@ -1,0 +1,75 @@
+ .main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .first > input{
+
+    
+   
+    width: 700px;
+    height: 70px;
+    margin: none;
+    display: flex;
+   
+
+    
+}
+.key_container{
+    border: 5px solid blue;
+    width: 697px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.symbol{
+    width: 100%;
+    height:70px;
+    display: flex;
+}
+.symbol button{
+    width: 174px;
+    height: 70px;
+}  
+
+.key_container2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 0;
+    width: 526px;
+    flex-wrap: wrap;
+    height: 270px; 
+  
+
+}
+.key_container2 > button{
+   
+    width:174px;
+    height: 70px;
+   
+    
+
+    
+}
+.equal{
+    
+    width: 174px;
+    height: 280px;
+    margin-left: 522px;
+    margin-top: -270px;
+
+}
+.equal > button {
+    display: flex;
+    width: 174px;
+    height: 280px;
+    
+
+}
+
